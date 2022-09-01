@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798146932007",
+    "project_id": "ek-in-ml",
+    "storage_bucket": "ek-in-ml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798146932007:android:5bf0e7fad2284721bf0d02",
+        "android_client_info": {
+          "package_name": "com.example.image_to_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798146932007-3trcn8tg358jbuh6dckihbjalducurv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmTKpT5tvhIfL4wuawpto5J8LZ_s2XRmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798146932007-3trcn8tg358jbuh6dckihbjalducurv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
